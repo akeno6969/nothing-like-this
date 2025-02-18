@@ -1,7 +1,7 @@
 # Athernox X
 
 Athernox X is an executable command-line tool that lets you run different Python scripts like generating Nitro codes, raid tools, and more. It features an interactive menu for easy use.
-
+nothing like this.zip is athernox x BTW!!
 ## Features
 
 - **Nitro Generator**: Generate Nitro codes.
